@@ -29,7 +29,7 @@ IEEE Transactions on Visualization and Computer Graphics (2023).\
 **Sipeng Yang**, Yunlu Zhao, Yuzhe Luo, He Wang, Hongyu Sun, Chen Li, Binghuang Cai, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)*
 
 [Generated Realistic Noise and Rotation-Equivariant Models for Data-Driven Mesh Denoising](https://)\
-IEEE Transactions on Visualization and Computer Graphics (2023).\
+Computer-Aided Geometric Design (Special Issue of GMP 2024).\
 **Sipeng Yang**, Wenhui Ren, Xiwen Zeng, Qingchuan Zhu, Hongbo Fu, Kaijun Fan, Lei Yang, Jingping Yu, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)*
 
 [Facial Action Units Detection Using Temporal Context and Feature Reassignment](https://)\
