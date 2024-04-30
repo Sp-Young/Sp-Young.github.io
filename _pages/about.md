@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sipeng Yang, a Ph.D. candidate at the State Key Lab of CAD&CG, Zhejiang University, under the guidance of Professor [Jin](http://www.cad.zju.edu.cn/home/jin/). I received my BSc degree from Southeast University, China, in 2018.
+I am Sipeng Yang, a Ph.D. candidate at the State Key Lab of CAD&CG, Zhejiang University, under the guidance of Professor [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/). I received my BSc degree from Southeast University, China, in 2018.
 
 My research focuses on developing **lightweight supersampling algorithms** for real-time rendering on mobile devices, aiming to achieve high-quality rendering results with low sampling rates. This work is highly beneficial for gaming on smartphones.
 
@@ -33,9 +33,8 @@ Computer-Aided Geometric Design (Special Issue of GMP 2024).\
 **Sipeng Yang**, Wenhui Ren, Xiwen Zeng, Qingchuan Zhu, Hongbo Fu, Kaijun Fan, Lei Yang, Jingping Yu, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)*
 
 [Facial Action Units Detection Using Temporal Context and Feature Reassignment](https://)\
-To be published in Computer Aided Geometric Design 2024.\
+Computer Animation and Virtual Worlds (Special Issue of CASA'2024).\
 **Sipeng Yang**, Hongyu Huang, Ying Sophie Huang*, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
-
 
 [SR-VFA: Accurate Self-Refined Face Alignment in Videos](https://ieeexplore.ieee.org/document/10446201/)\
 2024 IEEE International Conference on Acoustics, Speech and Signal Processing.\
