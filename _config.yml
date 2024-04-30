@@ -21,7 +21,7 @@ repository               : "Sp-Young/Sp-Young.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/SpYang.png"
+  avatar           : "profile.png"
   name             : "Sipeng Yang"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD student at the State Key Lab of CAD&CG, Zhejiang University."
@@ -198,10 +198,10 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
 #  publications:
 #    output: true
 #    permalink: /:collection/:path/
