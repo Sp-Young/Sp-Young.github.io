@@ -33,7 +33,7 @@ Computer-Aided Geometric Design (Special Issue of GMP 2024).\
 **Sipeng Yang**, Wenhui Ren, Xiwen Zeng, Qingchuan Zhu, Hongbo Fu, Kaijun Fan, Lei Yang, Jingping Yu, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)*
 
 [Facial Action Units Detection Using Temporal Context and Feature Reassignment](https://)\
-Computer Animation and Virtual Worlds (Special Issue of CASA'2024).\
+To be published in Computer Animation and Virtual Worlds (Special Issue of CASA'2024).\
 **Sipeng Yang**, Hongyu Huang, Ying Sophie Huang*, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
 [SR-VFA: Accurate Self-Refined Face Alignment in Videos](https://ieeexplore.ieee.org/document/10446201/)\
