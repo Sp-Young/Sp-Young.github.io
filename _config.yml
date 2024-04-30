@@ -21,7 +21,7 @@ repository               : "Sp-Young/Sp-Young.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SpYang.png"
   name             : "Sipeng Yang"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD student at the State Key Lab of CAD&CG, Zhejiang University."
